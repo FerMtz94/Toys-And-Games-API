@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "toys_and_games_store_apiContext"
+    }
+  }
+}
